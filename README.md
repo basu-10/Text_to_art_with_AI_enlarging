@@ -6,7 +6,7 @@ Leveraging the power of several machine learning algorithms, this colab Notebook
 > It can be run without any input and it outputs for a default text prompt of 'ice castles on hilltop'
 
 
-Insctructions to run:
-* Follow the insctructions and run each cell(block of code).
+Instructions to run:
+* Follow the instructions and run each cell(block of code).
 * Input the text (or not!) and maybe, choose a few art styles if you fancy. 
 * Click on a few more buttons to get the final image, along with a timelapse video of the creation process, download any number of pictures on process completion.
